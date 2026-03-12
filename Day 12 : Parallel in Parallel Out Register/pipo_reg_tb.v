@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   08:55:48 01/04/2023
-// Design Name:   pipo_reg
-// Module Name:   /home/ise/Desktop/pipo/pipo_reg_tb.v
-// Project Name:  pipo
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: pipo_reg
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module pipo_reg_tb;
 
 reg clk,clear;
