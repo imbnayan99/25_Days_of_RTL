@@ -1,26 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   05:57:40 01/01/2023
-// Design Name:   comparator_n_bit
-// Module Name:   /home/ise/Desktop/Comparator/comparator_nbit_tb.v
-// Project Name:  Comparator
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: comparator_n_bit
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
 
 module comparator_nbit_tb;
 
