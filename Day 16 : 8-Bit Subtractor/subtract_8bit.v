@@ -1,18 +1,6 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   05:29:50 01/08/2023
-// Design Name:   subtract_8bit
-// Module Name:   /home/ise/Desktop/eightbitsubtraction/subtract_8bit_tb.v
-// Project Name:  eightbitsubtraction
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: subtract_8bit
+
 module sub_8bit_bh_tb;
 reg [7:0] a, b; //inputs are reg for test bench
 wire [7:0] result; //outputs are wire for test bench
