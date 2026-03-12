@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   03:34:09 12/26/2022
-// Design Name:   ring_counter
-// Module Name:   /home/ise/Desktop/ring_counter/ring_counter_tb.v
-// Project Name:  ring_counter
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: ring_counter
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module ring_counter_tb;
 
 	// Inputs
