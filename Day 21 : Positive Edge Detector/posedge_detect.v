@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    17:46:48 01/12/2023 
-// Design Name:    Positive Edge Detector Circuit
-// Module Name:    edge_detector 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module edge_detector(
     input  data,    // Input data for which positive edge has to be detected
 	 input clock,    // Input signal for clock
