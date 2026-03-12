@@ -1,26 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   12:26:43 01/06/2023
-// Design Name:   bishift_reg
-// Module Name:   /home/ise/Desktop/bidirection_reg/bishift_reg_tb.v
-// Project Name:  bidirection_reg
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: bishift_reg
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
 
 module bishift_reg_tb;
    parameter MSB = 4;        // [Optional] Declare a parameter to represent number of bits in shift register
