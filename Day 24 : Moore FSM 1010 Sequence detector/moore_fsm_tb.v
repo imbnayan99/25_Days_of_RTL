@@ -1,26 +1,6 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   15:03:51 01/16/2023
-// Design Name:   moore_fsm
-// Module Name:   /home/ise/Desktop/moore_fsm/moore_fsm_tb.v
-// Project Name:  moore_fsm
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: moore_fsm
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
+
 
 module moore_fsm_tb;
 reg din,clk,reset;
