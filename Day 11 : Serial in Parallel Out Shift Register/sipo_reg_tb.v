@@ -1,26 +1,6 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   15:09:10 01/03/2023
-// Design Name:   sipo_reg
-// Module Name:   /home/ise/Desktop/sipo_reg/sipo_reg_tb.v
-// Project Name:  sipo_reg
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: sipo_reg
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-/////////////////////////////////////////////////////////////////////////////
+
 module sipo_reg_tb;
 
 reg clk,clear,din;
