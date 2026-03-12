@@ -1,26 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   12:22:53 01/14/2023
-// Design Name:   bcdadd
-// Module Name:   /home/ise/Desktop/bcd_adderr/bcd_adder_tb.v
-// Project Name:  bcd_adderr
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: bcdadd
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
 
 module BCD_adder_tb;
 wire [3:0] S;
