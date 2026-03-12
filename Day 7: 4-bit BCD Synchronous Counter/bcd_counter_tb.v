@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   15:49:58 12/30/2022
-// Design Name:   bcd_counter
-// Module Name:   /home/ise/Desktop/bcd_counter/bcd_counter_tb.v
-// Project Name:  bcd_counter
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: bcd_counter
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module bcd_counter_tb;
 
 	// Inputs
