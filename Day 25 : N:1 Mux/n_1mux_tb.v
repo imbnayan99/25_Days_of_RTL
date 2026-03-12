@@ -1,26 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   06:35:00 01/17/2023
-// Design Name:   n_1mux
-// Module Name:   /home/ise/Desktop/n_1mux/n_1mux_tb.v
-// Project Name:  n_1mux
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: n_1mux
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
 
 module n_1mux_tb;
 
